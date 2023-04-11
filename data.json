@@ -1,0 +1,93 @@
+[
+    {
+      "id": "1",
+      "imagePath": "path/to/",
+      "name": "Sang trọng",
+      "gender": "Nữ",
+      "description": "",
+      "category": "Áo",
+      "price": 250000
+    },
+    {
+        "id": "2",
+        "image__url":"",
+        "name": "Trang nhã",
+        "gender": "Nữ",
+        "description": "",
+        "category": "Áo",
+        "price": 500000
+    },
+    {
+        "id": "3",
+        "image__url":"",
+        "name": "Trẻ trung",
+        "gender": "Nữ",
+        "description": "",
+        "category": "Áo",
+        "price": 300000
+    },
+    {
+        "id": "4",
+        "image__url":"",
+        "name": "Phá cách",
+        "gender": "Nam",
+        "description": "",
+        "category": "Áo và quần",
+        "price": 550000
+    },
+    {
+        "id": "5",
+        "image__url":"",
+        "name": "Áo Vest Trưởng thành",
+        "gender": "nam",
+        "description": "",
+        "category": "Áo",
+        "price": 250000
+    },
+    {
+        "id": "6",
+      "image__url":"",
+      "name": "Áo Black Sang trọng",
+      "gender": "Nữ",
+      "description": "",
+      "category": "Áo",
+      "price": 400000
+    },
+    {
+        "id": "7",
+      "image__url":"",
+      "name": "Áo Vest Sang trọng",
+      "gender": "Nam",
+      "description": "",
+      "category": "Áo",
+      "price": 250000
+    },
+    {
+        "id": "8",
+        "image__url":"",
+        "name": "Quần áo Yoga thoáng mát",
+        "gender": "Nữ",
+        "description": "",
+        "category": "Quần áo",
+        "price": 250000
+    },
+    {
+        "id": "9",
+        "image__url":"",
+        "name": "Áo trắng trẻ trung",
+        "gender": "Nữ",
+        "description": "",
+        "category": "Áo",
+        "price": 250000
+    },
+    {
+        "id": "10",
+        "image__url":"",
+        "name": "Váy dài",
+        "gender": "Nữ",
+        "description": "",
+        "category": "Váy",
+        "price": 250000
+    }
+  ]
+  
